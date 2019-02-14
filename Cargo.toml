@@ -13,7 +13,7 @@ license = "MIT"
 [dependencies]
 bitflags = "0.7.*"
 libc = "0.2"
-x86 = { version = "0.10.1", features = ["performance-counter"] }
+x86 = { version = "0.14.0", features = ["performance-counter"] }
 mmap = "0.1.*"
 byteorder = "0.5"
 nom = "^2.0"
